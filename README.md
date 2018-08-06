@@ -3,7 +3,7 @@ A collection of the best tutorials, examples & repos from the Flutter community
 
 ## Flutter Components Examples
 | Tutorial        | Author/Publisher  |
-| ---------------------------------------------------------------------| ---------- |:-------------:| :-----:|
+| ---------------------------------------------------------------------| ---------- |
 | [Flutter Gallery](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery)     |  Flutter Official |
 | [Flutter Playground](https://github.com/ibhavikmakwana/FlutterPlayground)    | [Bhavik Makwana](https://github.com/ibhavikmakwana) |
 
