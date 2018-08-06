@@ -16,6 +16,5 @@ A collection of the best tutorials, examples & repos from the Flutter community
 ## Streams
 | Tutorial        | Topic    |   Githu Repo      | Author/Publisher  |
 | ---------------------------------------------------------------------| ---------- |:-------------:| :-----:|
-| [RefreshIndicator with StreamBuilder](https://blog.khophi.co/using-refreshindicator-with-flutter-streambuilder/)     | Stream Builder    | [Link](https://github.com/seanmavley/refreshindicator-with-streambuilder) | [Nkansah Rexford
-](https://github.com/seanmavley) |
+| [RefreshIndicator with StreamBuilder](https://blog.khophi.co/using-refreshindicator-with-flutter-streambuilder/)     | Stream Builder    | [Link](https://github.com/seanmavley/refreshindicator-with-streambuilder) | [Nkansah Rexford](https://github.com/seanmavley) |
 
