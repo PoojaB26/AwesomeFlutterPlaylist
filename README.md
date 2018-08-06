@@ -1,4 +1,4 @@
-# AwesomeFlutterTutorials
+# AwesomeFlutterPlaylist
 A collection of the best tutorials, examples & repos from the Flutter community
 
 ## Flutter Components Examples
