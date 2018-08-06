@@ -14,6 +14,7 @@ A collection of the best tutorials, examples & repos from the Flutter community
 | [Login Animation](https://blog.geekyants.com/flutter-login-animation-ab3e6ed4bd19)     | Tween Animation    | [Link](https://github.com/GeekyAnts/flutter-login-home-animation) | [GeekyAnts](https://blog.geekyants.com/) |
 | [Beer menu list-details](https://blog.usejournal.com/beer-menu-hero-animation-d1925bbd0ce2)      | Hero Animation      |  [Link](https://bitbucket.org/snippets/xsokev/GeLEqA/beer-menu-hero-animation) | Kevin Armstrong |
 | [Animating Charts](https://medium.com/flutter-io/zero-to-one-with-flutter-43b13fd7b354)      | Tween, Lerp      |  | Mikkel Ravn |
+| [Shared Elements](https://medium.com/@diegoveloper/flutter-shared-element-transitions-hero-heroes-f1a083cb123a)      | Hero Animation      |  [Link](https://github.com/diegoveloper/flutter-samples) | [Diego Velásquez López](https://github.com/diegoveloper/) |
 
 
 ## ListView
@@ -32,7 +33,8 @@ A collection of the best tutorials, examples & repos from the Flutter community
 | Tutorial        | Topic    |   Githu Repo      | Author/Publisher  |
 | ---------------------------------------------------------------------| ---------- |:-------------:| :-----:|
 | [Parsing complex JSON in Flutter](https://medium.com/flutter-community/parsing-complex-json-in-flutter-747c46655f51)     | dart:convert, JSON parsing   | [Link](https://github.com/PoojaB26/ParsingJSON-Flutter) | [Pooja Bhaumik](https://github.com/PoojaB26/) |
-
+| [Options for deserializing JSON](https://medium.com/flutter-io/some-options-for-deserializing-json-with-flutter-7481325a4450) |  convert, serializer, built-value | [Link]() | Andrew Brodgon |
+| [Future Builder with Pagination](https://codinginfinite.com/flutter-future-builder-pagination/) |  FutureBuilder, Pagination | [Link](https://github.com/CodingInfinite/FutureBuilderWithPagination) | Coding Infinite(https://github.com/CodingInfinite) |
 
 
 ## Streams
@@ -40,3 +42,20 @@ A collection of the best tutorials, examples & repos from the Flutter community
 | ---------------------------------------------------------------------| ---------- |:-------------:| :-----:|
 | [RefreshIndicator with StreamBuilder](https://blog.khophi.co/using-refreshindicator-with-flutter-streambuilder/)     | Stream Builder    | [Link](https://github.com/seanmavley/refreshindicator-with-streambuilder) | [Nkansah Rexford](https://github.com/seanmavley) |
 
+
+## Native Channels
+| Tutorial        | Topic    |   Githu Repo      | Author/Publisher  |
+| ---------------------------------------------------------------------| ---------- |:-------------:| :-----:|
+| [Screenshot attachment in mail](https://medium.com/@info_67212/how-to-send-a-screenshot-attachment-in-mail-using-flutter-703a2bba882f)     | Platform channels     | [Link](https://github.com/ThiranTech/screenshot_flutter) | [Thiran Tech](https://github.com/ThiranTech) |
+
+
+## Custom Components by Community
+| Tutorial        | Topic    |   Githu Repo      | Author/Publisher  |
+| ---------------------------------------------------------------------| ---------- |:-------------:| :-----:|
+| [Range Slider](https://www.didierboelens.com/2018/07/range-slider/)     | Sliders     | [Link](https://github.com/flutter/flutter/blob/master/packages/flutter/lib/src/material/slider.dart) |  |
+
+
+## Flutter UI challenges
+| Tutorial        | Topic    |   Githu Repo      | Author/Publisher  |
+| ---------------------------------------------------------------------| ---------- |:-------------:| :-----:|
+| [Flight Search](https://marcinszalek.pl/flutter/ui-challenge-flight-search/)     | Animations     | [Link](https://github.com/MarcinusX/flutter_ui_challenge_flight_search) | [Marcin Szalek](https://github.com/MarcinusX) |
