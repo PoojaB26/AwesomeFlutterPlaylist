@@ -34,13 +34,19 @@ A collection of the best tutorials, examples & repos from the Flutter community
 | ---------------------------------------------------------------------| ---------- |:-------------:| :-----:|
 | [Parsing complex JSON in Flutter](https://medium.com/flutter-community/parsing-complex-json-in-flutter-747c46655f51)     | dart:convert, JSON parsing   | [Link](https://github.com/PoojaB26/ParsingJSON-Flutter) | [Pooja Bhaumik](https://github.com/PoojaB26/) |
 | [Options for deserializing JSON](https://medium.com/flutter-io/some-options-for-deserializing-json-with-flutter-7481325a4450) |  convert, serializer, built-value | [Link]() | Andrew Brodgon |
-| [Future Builder with Pagination](https://codinginfinite.com/flutter-future-builder-pagination/) |  FutureBuilder, Pagination | [Link](https://github.com/CodingInfinite/FutureBuilderWithPagination) | Coding Infinite(https://github.com/CodingInfinite) |
+| [Future Builder with Pagination](https://codinginfinite.com/flutter-future-builder-pagination/) |  FutureBuilder, Pagination | [Link](https://github.com/CodingInfinite/FutureBuilderWithPagination) | [Coding Infinite](https://github.com/CodingInfinite) |
 
 
 ## Streams
 | Tutorial        | Topic    |   Githu Repo      | Author/Publisher  |
 | ---------------------------------------------------------------------| ---------- |:-------------:| :-----:|
 | [RefreshIndicator with StreamBuilder](https://blog.khophi.co/using-refreshindicator-with-flutter-streambuilder/)     | Stream Builder    | [Link](https://github.com/seanmavley/refreshindicator-with-streambuilder) | [Nkansah Rexford](https://github.com/seanmavley) |
+
+## OAuth
+| Tutorial        | Topic    |   Githu Repo      | Author/Publisher  |
+| ---------------------------------------------------------------------| ---------- |:-------------:| :-----:|
+| [Google Sign in ](https://medium.com/flutterpub/flutter-auth-with-google-f3c3aa0d0ccc)     | Google OAuth    | [] | [Gonzalo Martin]() |
+| [Faceook Login](https://medium.com/flutter-community/flutter-facebook-login-77fcd187242)     | Facebook Login  | [Link](https://github.com/rohan20/flutter-facebook-auth) | [Rohan Taneja](https://github.com/rohan20) |
 
 
 ## Native Channels
