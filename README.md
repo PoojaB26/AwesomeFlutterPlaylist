@@ -45,8 +45,9 @@ A collection of the best tutorials, examples & repos from the Flutter community
 ## OAuth
 | Tutorial        | Topic    |   Githu Repo      | Author/Publisher  |
 | ---------------------------------------------------------------------| ---------- |:-------------:| :-----:|
-| [Google Sign in ](https://medium.com/flutterpub/flutter-auth-with-google-f3c3aa0d0ccc)     | Google OAuth    | [] | [Gonzalo Martin]() |
+| [Google Sign in ](https://medium.com/flutterpub/flutter-auth-with-google-f3c3aa0d0ccc)     | Google OAuth    |   | Gonzalo Martin |
 | [Faceook Login](https://medium.com/flutter-community/flutter-facebook-login-77fcd187242)     | Facebook Login  | [Link](https://github.com/rohan20/flutter-facebook-auth) | [Rohan Taneja](https://github.com/rohan20) |
+| [Faceook with Firebase Login](https://medium.com/@varundroid/facebook-login-native-experience-flutter-and-firebase-tutorial-d16904719d8a)     | Facebook & Firebase  |  | Varun Kumar |
 
 
 ## Native Channels
