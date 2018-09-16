@@ -50,6 +50,13 @@ A collection of the best tutorials, examples & repos from the Flutter community
 | [Faceook Login](https://medium.com/flutter-community/flutter-facebook-login-77fcd187242)     | Facebook Login  | [Link](https://github.com/rohan20/flutter-facebook-auth) | [Rohan Taneja](https://github.com/rohan20) |
 | [Faceook with Firebase Login](https://medium.com/@varundroid/facebook-login-native-experience-flutter-and-firebase-tutorial-d16904719d8a)     | Facebook & Firebase  |  | Varun Kumar |
 
+## Firebase
+| Tutorial        | Topic    |   Githu Repo      | Author/Publisher  |
+| ---------------------------------------------------------------------| ---------- |:-------------:| :-----:|
+| [ML KIt Face Detection](https://medium.com/flutterpub/ml-kit-and-face-detection-in-flutter-c7bca082fdda)     | ML Kit  | [Link](https://github.com/AseemWangoo/flutter_programs/blob/master/face_detect.dart) | [Aseem Wangoo](https://github.com/AseemWangoo) |
+| [ML KIt Barcode Scanning](https://medium.com/@alfianlosari/flutter-text-barcode-scanner-app-with-firebase-ml-kit-103db6b6dad7)     | ML Kit  | [Link]() | Alfian Losari |
+| [ML KIt Text Recognition](http://flatteredwithflutter.com/ml-kit-and-text-recognition-in-flutter/)     | ML Kit  | [Link](https://github.com/AseemWangoo/flutter_programs/blob/master/mlkit.dart) | [Aseem Wangoo](https://github.com/AseemWangoo) |
+| [ML KIt Image Labeling](https://medium.com/@aseemwangoo/ml-kit-and-image-labeling-in-flutter-b1f87b58b6ad)     | ML Kit  | [Link](https://github.com/AseemWangoo/flutter_programs/blob/master/image_labelling.dart) | [Aseem Wangoo](https://github.com/AseemWangoo) |
 
 ## Native Channels
 | Tutorial        | Topic    |   Githu Repo      | Author/Publisher  |
