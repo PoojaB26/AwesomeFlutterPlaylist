@@ -6,6 +6,7 @@ A collection of the best tutorials, examples & repos from the Flutter community
 | ---------------------------------------------------------------------| ---------- |
 | [Flutter Gallery](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery)     |  Flutter Official |
 | [Flutter Playground](https://github.com/ibhavikmakwana/FlutterPlayground)    | [Bhavik Makwana](https://github.com/ibhavikmakwana) |
+| [Basic Widgets Examples](https://github.com/PoojaB26/FlutterBasicWidgets)    | [Pooja Bhaumik](https://github.com/PoojaB26) |
 
 
 ## Animation
@@ -66,3 +67,7 @@ A collection of the best tutorials, examples & repos from the Flutter community
 | Tutorial        | Topic    |   Githu Repo      | Author/Publisher  |
 | ---------------------------------------------------------------------| ---------- |:-------------:| :-----:|
 | [Flight Search](https://marcinszalek.pl/flutter/ui-challenge-flight-search/)     | Animations     | [Link](https://github.com/MarcinusX/flutter_ui_challenge_flight_search) | [Marcin Szalek](https://github.com/MarcinusX) |
+
+## Other blogs
+* [FlatteredWithFlutter](http://flatteredwithflutter.com/)
+* [didierboelens](https://www.didierboelens.com/)
