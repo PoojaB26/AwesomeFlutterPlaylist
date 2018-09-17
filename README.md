@@ -18,6 +18,12 @@ A collection of the best tutorials, examples & repos from the Flutter community
 | [Shared Elements](https://medium.com/@diegoveloper/flutter-shared-element-transitions-hero-heroes-f1a083cb123a)      | Hero Animation      |  [Link](https://github.com/diegoveloper/flutter-samples) | [Diego Velásquez López](https://github.com/diegoveloper/) |
 
 
+## Painting and Effect Widgets
+| Tutorial        | Topic    |   Githu Repo      | Author/Publisher  |
+| ---------------------------------------------------------------------| ---------- |:-------------:| :-----:|
+| [Tic Tac Toe](http://myhexaville.com/2018/04/30/flutter-canvas-animations/)     | Custom Paint    | [Link]() | Ihor Klimov |
+| [Radial Progress](https://medium.com/@rjstech/flutter-custom-paint-tutorial-build-a-radial-progress-6f80483494df) | Custom Paint | | RJSTech |
+
 ## ListView
 | Tutorial        | Topic    |   Githu Repo      | Author/Publisher  |
 | ---------------------------------------------------------------------| ---------- |:-------------:| :-----:|
