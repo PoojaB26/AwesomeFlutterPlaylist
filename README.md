@@ -84,3 +84,4 @@ A collection of the best tutorials, examples & repos from the Flutter community
 ## Other blogs
 * [FlatteredWithFlutter](http://flatteredwithflutter.com/)
 * [didierboelens](https://www.didierboelens.com/)
+* [Hillel Coren's blog](https://hillelcoren.com/)
