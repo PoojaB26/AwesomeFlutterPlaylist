@@ -21,7 +21,7 @@ A collection of the best tutorials, examples & repos from the Flutter community
 ## Painting and Effect Widgets
 | Tutorial        | Topic    |   Githu Repo      | Author/Publisher  |
 | ---------------------------------------------------------------------| ---------- |:-------------:| :-----:|
-| [Tic Tac Toe](http://myhexaville.com/2018/04/30/flutter-canvas-animations/)     | Custom Paint    | [Link]() | Ihor Klimov |
+| [Tic Tac Toe](http://myhexaville.com/2018/04/30/flutter-canvas-animations/)     | Custom Paint    | [Link](https://github.com/IhorKlimov/Flutter-Tic-Tac-Toe) | [Ihor Klimov](https://github.com/IhorKlimov) |
 | [Radial Progress](https://medium.com/@rjstech/flutter-custom-paint-tutorial-build-a-radial-progress-6f80483494df) | Custom Paint | | RJSTech |
 
 ## ListView
