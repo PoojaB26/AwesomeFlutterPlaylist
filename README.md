@@ -35,6 +35,7 @@ A collection of the best tutorials, examples & repos from the Flutter community
 | Tutorial        | Topic    |   Github Repo      | Author/Publisher  |
 | ---------------------------------------------------------------------| ---------- |:-------------:| :-----:|
 | [Dynamic Sliver FAB](https://marcinszalek.pl/flutter/dynamic-sliver-floatingactionbutton/)     | FAB on Sliver AppBar    | [Link](https://gist.github.com/MarcinusX/e389a9df7e1082f98d1c8f9b6f66d0d0) | [Marcin Szalek](https://github.com/MarcinusX) |
+| [Collapsing Toolbar With Vanishing FAB](https://www.developerlibs.com/2018/08/flutter-collapsing-toolbar-layout.html)     | Vanishing FAB on Sliver AppBar     | [Link]() | [DeveloperLibs](https://www.developerlibs.com) |
 
 
 ## JSON & API
