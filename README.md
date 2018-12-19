@@ -92,5 +92,5 @@ A collection of the best tutorials, examples & repos from the Flutter community
 * [FlatteredWithFlutter](http://flatteredwithflutter.com/)
 * [didierboelens](https://www.didierboelens.com/)
 * [Hillel Coren's blog](https://hillelcoren.com/)
-* [Liro Krankka's blog](https://iirokrankka.com/)
+* [Iiro Krankka's blog](https://iirokrankka.com/)
 * [Raunak Hajela](https://kodestat.gitbook.io/flutter/)
