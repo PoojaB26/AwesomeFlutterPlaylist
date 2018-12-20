@@ -94,3 +94,5 @@ A collection of the best tutorials, examples & repos from the Flutter community
 * [Hillel Coren's blog](https://hillelcoren.com/)
 * [Iiro Krankka's blog](https://iirokrankka.com/)
 * [Raunak Hajela](https://kodestat.gitbook.io/flutter/)
+* [Flutter by Example](https://flutterbyexample.com/)
+* [Flutter Institute](https://flutter.institute/)
