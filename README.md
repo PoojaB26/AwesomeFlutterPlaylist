@@ -6,8 +6,8 @@ A collection of the best tutorials, examples & repos from the Flutter community
 | ---------------------------------------------------------------------| ---------- |
 | [Flutter Gallery](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery)     |  Flutter Official |
 | [Flutter Playground](https://github.com/ibhavikmakwana/FlutterPlayground)    | [Bhavik Makwana](https://github.com/ibhavikmakwana) |
-| [Basic Widgets Examples](https://github.com/PoojaB26/FlutterBasicWidgets)    | [Pooja Bhaumik](https://github.com/PoojaB26) |
-
+| [Basic Widgets Examples](https://github.com/PoojaB26/FlutterBasicWidgets)    | [Pooja Bhaumik](https://github.com/PoojaB26)
+| [contact_picker](https://github.com/goderbauer/contact_picker)    | [Michael Goderbauer](https://github.com/goderbauer)
 
 ## Animation
 | Tutorial        | Topic    |   Github Repo      | Author/Publisher  |
