@@ -1,7 +1,7 @@
 # AwesomeFlutterPlaylist
 A collection of the best tutorials, examples & repos from the Flutter community
 
-## Flutter Components Examples
+## Flutter Components Examples for Beginners
 | Tutorial        | Author/Publisher  |
 | ---------------------------------------------------------------------| ---------- |
 | [Flutter Gallery](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery)     |  Flutter Official |
