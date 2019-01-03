@@ -21,7 +21,7 @@ category2 <br>
 category.. <br>
 **YOUR NEW CATEGORY** <br>
 Flutter Snippets <br>
-Blogs <br>
+Other Blogs <br>
 
 - Make an individual pull request for each suggestion.
 
