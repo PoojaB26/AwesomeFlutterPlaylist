@@ -1,5 +1,5 @@
 # AwesomeFlutterPlaylist
-A collection of the best tutorials, examples & repos from the Flutter community
+A collection of the best learning materials in the form of video tutorials, articles, blogs and repos for and by the Flutter community. 
 
 ## Flutter Components Examples for Beginners
 | Tutorial        | Author/Publisher  |
