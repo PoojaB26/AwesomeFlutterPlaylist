@@ -88,6 +88,9 @@ A collection of the best tutorials, examples & repos from the Flutter community
 | ---------------------------------------------------------------------| ---------- |:-------------:| :-----:|
 | [Flight Search](https://marcinszalek.pl/flutter/ui-challenge-flight-search/)     | Animations     | [Link](https://github.com/MarcinusX/flutter_ui_challenge_flight_search) | [Marcin Szalek](https://github.com/MarcinusX) |
 
+## Flutter Snippets
+* [Flutter Cheat Sheet for React Native Developers](https://howtodothisinflutter.com/)
+
 ## Other blogs
 * [FlatteredWithFlutter](http://flatteredwithflutter.com/)
 * [didierboelens](https://www.didierboelens.com/)
