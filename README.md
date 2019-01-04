@@ -81,7 +81,7 @@ A collection of the best learning materials in the form of video tutorials, arti
 | Tutorial        | Topic    |   Github Repo      | Author/Publisher  |
 | ---------------------------------------------------------------------| ---------- |:-------------:| :-----:|
 | [Range Slider](https://www.didierboelens.com/2018/07/range-slider/)     | Sliders     | [Link](https://github.com/flutter/flutter/blob/master/packages/flutter/lib/src/material/slider.dart) |  |
-
+| [Flutter Villains](https://medium.com/flutter-community/flutter-heroes-and-villains-bringing-balance-to-the-flutterverse-2e900222de41)     | Animations     | [Link](https://github.com/Norbert515/flutter_villains) | [Norbert Kozsir](https://github.com/Norbert515) |
 
 ## Flutter UI challenges
 | Tutorial        | Topic    |   Github Repo      | Author/Publisher  |
