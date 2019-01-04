@@ -30,7 +30,6 @@ A collection of the best tutorials, examples & repos from the Flutter community
 | ---------------------------------------------------------------------| ---------- |:-------------:| :-----:|
 | [Scroll to Position](http://cogitas.net/scroll-position-flutter-listview/)     | ScrollController    | [Link](https://gist.github.com/MarcinusX/e389a9df7e1082f98d1c8f9b6f66d0d0) | [Natalie Masse Hooper](https://github.com/MarcinusX) |
 
-
 ## Slivers
 | Tutorial        | Topic    |   Github Repo      | Author/Publisher  |
 | ---------------------------------------------------------------------| ---------- |:-------------:| :-----:|
@@ -82,6 +81,10 @@ A collection of the best tutorials, examples & repos from the Flutter community
 | ---------------------------------------------------------------------| ---------- |:-------------:| :-----:|
 | [Range Slider](https://www.didierboelens.com/2018/07/range-slider/)     | Sliders     | [Link](https://github.com/flutter/flutter/blob/master/packages/flutter/lib/src/material/slider.dart) |  |
 
+## Material Design
+| Tutorial        | Topic    |   Github Repo/blog link      | Author/Publisher  |
+| ---------------------------------------------------------------------| ---------- |:-------------:| :-----:|
+| Make a Material Design login page with Flutter    | Material UI     | [Link](https://codeburst.io/make-a-material-design-login-page-with-flutter-the-basics-99d3acd80b18) | [Vaibhav Khulbe](https://github.com/Kvaibhav01) |
 
 ## Flutter UI challenges
 | Tutorial        | Topic    |   Github Repo      | Author/Publisher  |
