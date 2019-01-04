@@ -1,7 +1,7 @@
 # AwesomeFlutterPlaylist
-A collection of the best tutorials, examples & repos from the Flutter community
+A collection of the best learning materials in the form of video tutorials, articles, blogs and repos for and by the Flutter community. 
 
-## Flutter Components Examples
+## Flutter Components Examples for Beginners
 | Tutorial        | Author/Publisher  |
 | ---------------------------------------------------------------------| ---------- |
 | [Flutter Gallery](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery)     |  Flutter Official |
@@ -85,11 +85,16 @@ A collection of the best tutorials, examples & repos from the Flutter community
 | Tutorial        | Topic    |   Github Repo/blog link      | Author/Publisher  |
 | ---------------------------------------------------------------------| ---------- |:-------------:| :-----:|
 | Make a Material Design login page with Flutter    | Material UI     | [Link](https://codeburst.io/make-a-material-design-login-page-with-flutter-the-basics-99d3acd80b18) | [Vaibhav Khulbe](https://github.com/Kvaibhav01) |
+=======
+| [Flutter Villains](https://medium.com/flutter-community/flutter-heroes-and-villains-bringing-balance-to-the-flutterverse-2e900222de41)     | Animations     | [Link](https://github.com/Norbert515/flutter_villains) | [Norbert Kozsir](https://github.com/Norbert515) |
 
 ## Flutter UI challenges
 | Tutorial        | Topic    |   Github Repo      | Author/Publisher  |
 | ---------------------------------------------------------------------| ---------- |:-------------:| :-----:|
 | [Flight Search](https://marcinszalek.pl/flutter/ui-challenge-flight-search/)     | Animations     | [Link](https://github.com/MarcinusX/flutter_ui_challenge_flight_search) | [Marcin Szalek](https://github.com/MarcinusX) |
+
+## Flutter Snippets
+* [Flutter Cheat Sheet for React Native Developers](https://howtodothisinflutter.com/)
 
 ## Other blogs
 * [FlatteredWithFlutter](http://flatteredwithflutter.com/)
