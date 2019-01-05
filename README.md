@@ -83,6 +83,11 @@ A collection of the best learning materials in the form of video tutorials, arti
 | [Range Slider](https://www.didierboelens.com/2018/07/range-slider/)     | Sliders     | [Link](https://github.com/flutter/flutter/blob/master/packages/flutter/lib/src/material/slider.dart) |  |
 | [Flutter Villains](https://medium.com/flutter-community/flutter-heroes-and-villains-bringing-balance-to-the-flutterverse-2e900222de41)     | Animations     | [Link](https://github.com/Norbert515/flutter_villains) | [Norbert Kozsir](https://github.com/Norbert515) |
 
+## Material Design
+| Tutorial        | Topic    |   Github Repo   | Author/Publisher  |
+| ---------------------------------------------------------------------| ---------- |:-------------:| :-----:|
+| [Material Design login page](https://codeburst.io/make-a-material-design-login-page-with-flutter-the-basics-99d3acd80b18) | Material UI     |  | [Vaibhav Khulbe](https://github.com/Kvaibhav01) | 
+
 ## Flutter UI challenges
 | Tutorial        | Topic    |   Github Repo      | Author/Publisher  |
 | ---------------------------------------------------------------------| ---------- |:-------------:| :-----:|
