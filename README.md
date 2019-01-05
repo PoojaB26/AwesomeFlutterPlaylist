@@ -86,7 +86,7 @@ A collection of the best learning materials in the form of video tutorials, arti
 ## Material Design
 | Tutorial        | Topic    |   Github Repo / Link     | Author/Publisher  |
 | ---------------------------------------------------------------------| ---------- |:-------------:| :-----:|
-| Make a Material Design login page with Flutter     | Material UI     | [Link](https://codeburst.io/make-a-material-design-login-page-with-flutter-the-basics-99d3acd80b18) | [Vaibhav Khulbe](https://github.com/Kvaibhav01) | 
+| [Material Design login page](https://codeburst.io/make-a-material-design-login-page-with-flutter-the-basics-99d3acd80b18) | Material UI     |  | [Vaibhav Khulbe](https://github.com/Kvaibhav01) | 
 
 ## Flutter UI challenges
 | Tutorial        | Topic    |   Github Repo      | Author/Publisher  |
