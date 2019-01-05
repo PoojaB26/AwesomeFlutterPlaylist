@@ -6,7 +6,7 @@ Before you contribute, please keep the following guidelines in mind.
 
 - Only provide resources that are a learning material. Video tutorials, articles, or blogs and repos. Materials that are just code, without any explanation will be rejected. 
 
-- Your commit should have the following format: "Added <max 5 words summary of link> under <Category>" 
+- Your commit description (and your PR title) should have the following format: "Added <max 5 words summary of link> under <Category>" 
 And add the link to your resource in the extra description box. 
 
 *E.g "Added ML Kit Face Detection under Firebase"* and link in description.
