@@ -92,6 +92,7 @@ A collection of the best learning materials in the form of video tutorials, arti
 | Tutorial        | Topic    |   Github Repo      | Author/Publisher  |
 | ---------------------------------------------------------------------| ---------- |:-------------:| :-----:|
 | [Flight Search](https://marcinszalek.pl/flutter/ui-challenge-flight-search/)     | Animations     | [Link](https://github.com/MarcinusX/flutter_ui_challenge_flight_search) | [Marcin Szalek](https://github.com/MarcinusX) |
+| [Piano Tiles Game](https://marcinszalek.pl/flutter/piano-tiles/)     | Animations, GestureDetector     | [Link](https://github.com/MarcinusX/piano_tiles) | [Marcin Szalek](https://github.com/MarcinusX) |
 
 ## Flutter Snippets
 * [Flutter Cheat Sheet for React Native Developers](https://howtodothisinflutter.com/)
@@ -101,6 +102,7 @@ A collection of the best learning materials in the form of video tutorials, arti
 * [didierboelens](https://www.didierboelens.com/)
 * [Hillel Coren's blog](https://hillelcoren.com/)
 * [Iiro Krankka's blog](https://iirokrankka.com/)
+* [Marcin Szalek Blog](https://marcinszalek.pl/)
 * [Raunak Hajela](https://kodestat.gitbook.io/flutter/)
 * [Flutter by Example](https://flutterbyexample.com/)
 * [Flutter Institute](https://flutter.institute/)
