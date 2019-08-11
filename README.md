@@ -54,7 +54,8 @@ A collection of the best learning materials in the form of video tutorials, arti
 | Tutorial        | Topic    |   Github Repo      | Author/Publisher  |
 | ---------------------------------------------------------------------| ---------- |:-------------:| :-----:|
 | [Render UI According to Connectivity](https://www.filledstacks.com/post/make-your-flutter-app-network-aware-using-provider-and-connectivity-status/)     | Stream Provider    | [Link](https://github.com/FilledStacks/flutter-tutorials/blob/master/011-network-sensitive-ui) | [Dane Mackier](https://github.com/FilledStacks) |
-
+| [API Call Via Provider](https://medium.com/flutter-community/flutter-statemanagement-with-provider-ee251bbc5ac1)     | Change Notifier Provider + Consumer  | [Link]() | [Karthik Ponnam]() |
+| [Shopping Cart](https://medium.com/better-programming/flutter-tabs-w-state-management-ac2049be7160)     | Change Notifier Provider  | [Link](https://github.com/aaronksaunders/flutter_simple_tabs) | [aaron Saunders](https://github.com/aaronksaunders/) |
 
 ## Streams
 | Tutorial        | Topic    |   Github Repo      | Author/Publisher  |
