@@ -100,6 +100,12 @@ A collection of the best learning materials in the form of video tutorials, arti
 | [Flight Search](https://marcinszalek.pl/flutter/ui-challenge-flight-search/)     | Animations     | [Link](https://github.com/MarcinusX/flutter_ui_challenge_flight_search) | [Marcin Szalek](https://github.com/MarcinusX) |
 | [Piano Tiles Game](https://marcinszalek.pl/flutter/piano-tiles/)     | Animations, GestureDetector     | [Link](https://github.com/MarcinusX/piano_tiles) | [Marcin Szalek](https://github.com/MarcinusX) |
 
+## Camera
+| Tutorial        | Topic    |   Github Repo   | Author/Publisher  |
+| ---------------------------------------------------------------------| ---------- |:-------------:| :-----:|
+| [Using Camera in Flutter](https://www.raywenderlich.com/4333657-using-the-camera-on-flutter) | Camera     |  | [Sagar Suri](https://github.com/SAGARSURI) | 
+
+
 ## Flutter Snippets
 * [Flutter Cheat Sheet for React Native Developers](https://howtodothisinflutter.com/)
 
