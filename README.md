@@ -118,3 +118,4 @@ A collection of the best learning materials in the form of video tutorials, arti
 * [Raunak Hajela](https://kodestat.gitbook.io/flutter/)
 * [Flutter by Example](https://flutterbyexample.com/)
 * [Flutter Institute](https://flutter.institute/)
+* [Flutter Developer Roadmap](https://roadmap.sh/flutter)
